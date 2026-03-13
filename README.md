@@ -1,4 +1,4 @@
-# To do list using linked list
+# To do list memakai linked list
 
 ## Penjelasan Singkat
 Kode ini dirancang untuk mengelola sebuah daftar tugas atau bisa di sebut to-do list. Saya menggunakan linked list, cara kerjanya setiap tugas yg saya buat disimpan sebagai sebuah node. Node nya terdiri dari beberapa atribut yakni, id, nama, desc dan juga next. Semua node saling terhubung berkat adanya pointer dari next yg kemudian membentuk sebuah chain hingga selesai. 
